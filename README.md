@@ -1,6 +1,6 @@
 # TimeBooth  
 
-Official implementation of the ICCV 2025 paper:   **TimeBooth: Disentangled Facial Invariant Representation for Diverse and Personalized Face Aging**  (ICCV 2025 accepted)  
+Official implementation of the paper:   **TimeBooth: Disentangled Facial Invariant Representation for Diverse and Personalized Face Aging**  (ICCV 2025 accepted)  
 
 ## 📄 Paper 
 
